@@ -3,7 +3,7 @@
   <p>
     <code>Data Engineer</code>
     <code>M.S. CS @ UChicago</code>
-    <code>United States</code>
+    <code>Born in China '00 | Based in US</code>
   </p>
 </div>
 
@@ -12,7 +12,7 @@
 
 <br>
 
-**Work** — a short highlight:
+**Work** — high-throughput data platforms in finance:
 
 - I build production data pipelines at a global investment bank — 16M+ customers, billions of records, on Airflow / Spark / Databricks / Kafka / Snowflake / AWS.
 - I own the part that isn't fun: data integrity, validation, and root-cause analysis for the failures that never throw an error.
