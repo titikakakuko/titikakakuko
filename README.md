@@ -12,6 +12,8 @@
 
 <br>
 
+**Work** — a short highlight:
+
 - I build production data pipelines at a global investment bank — 16M+ customers, billions of records, on Airflow / Spark / Databricks / Kafka / Snowflake / AWS.
 - I own the part that isn't fun: data integrity, validation, and root-cause analysis for the failures that never throw an error.
 - I'm now building for pipelines whose consumer is a model rather than a dashboard.
@@ -29,7 +31,7 @@
 
 <br>
 
-I'm looking for a **data engineer role on an AI platform team** in the US, and I'm happy to relocate. Email is the fastest way to reach me.
+I'm in the US and looking for a **data engineer role**, ideally on an **AI platform team**, and I'm happy to relocate. Email is the fastest way to reach me.
 
 <p>
   <samp>
