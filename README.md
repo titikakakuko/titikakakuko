@@ -1,5 +1,5 @@
 <div align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=17&color=4E9A8F&center=false&pause=100000&lines=Hi,+I'm+Ino." alt="Hi"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=700&size=17&color=4E9A8F&center=false&pause=100000&lines=Hi,+I'm+Ino." alt="Hi"/>
   <p>
     <code>Data Engineer</code>
     <code>M.S. CS @ UChicago</code>
