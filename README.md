@@ -25,7 +25,7 @@
 - **PRESAGE** — uncertainty-aware predictive elastic scheduling. A calibrated forecast feeds the scheduler directly, so it can trade cost against risk instead of reacting late. Cuts SLO violations 3–5× at ~18% lower resource cost on Alibaba / Azure / Borg traces. *Under review — code released on acceptance, happy to share the manuscript before then.*
 - [**credit-risk-data-quality**](https://github.com/titikakakuko/credit-risk-data-quality-research-prototype) — whether lightweight ML catches the data quality failures that rules never see. *Under review.*
 
-br>
+<br>
 
 I'm in the US and looking for a **data engineer role**, ideally on an **AI platform team**, and I'm happy to relocate. Email is the fastest way to reach me.
 
