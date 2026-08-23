@@ -27,7 +27,7 @@
 
 **Also building:**
 
-- [**my-skills**](https://github.com/titikakakuko/my-skills) — the skills I actually use, published in English and Chinese. Mostly lists of failure modes: naming the specific way an output goes wrong is what changes it.
+- [**my-skills**](https://github.com/titikakakuko/my-skills) — the skills I actually use, published in English and Chinese. Compress a long session into a handoff file; turn a week of tech news into scannable cards.
 
   
 <br>
