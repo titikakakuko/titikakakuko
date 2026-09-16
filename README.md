@@ -7,7 +7,8 @@
   </p>
 </div>
 
-- I like AI, data, investing, and novels.
+- I like travel, novels, thinking and investing.
+- I chase odd questions, then keep sharpening them with AI until they get interesting. Most of my side projects start there.
 - I'm grateful to live in an era that moves this fast — where anyone can put their work in the open, and meet remarkable people because of it.
 
 <br>
